@@ -38,7 +38,7 @@ h1 {
   display: block;
   overflow: hidden;
   margin-bottom: 20px;
-  background-image: url("images/baku.jpg");
+  background-image: url("../images/baku.jpg");
 }
 
 .preview-london {
@@ -51,7 +51,7 @@ h1 {
   display: block;
   overflow: hidden;
   margin-bottom: 20px;
-  background-image: url("images/london.png");
+  background-image: url("../images/london.png");
 }
 
 .preview-madrid {
@@ -64,7 +64,7 @@ h1 {
   display: block;
   overflow: hidden;
   margin-bottom: 20px;
-  background-image: url("images/madrid.jpg");
+  background-image: url("../images/madrid.jpg");
 }
 
 .preview-rome {
@@ -77,7 +77,7 @@ h1 {
   display: block;
   overflow: hidden;
   margin-bottom: 20px;
-  background-image: url("images/rome.jpg");
+  background-image: url("../images/rome.jpg");
 }
 
 @media screen and (min-width: 575px){
